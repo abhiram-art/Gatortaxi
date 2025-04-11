@@ -1,7 +1,5 @@
 ## GatorTaxi: COP5536 Project
 
-![](report/Gatortaxi_Report.pdf)
-
 Problem description
 GatorTaxi is an up-and-coming ride-sharing service. They get many ride requests every day and are
 planning to develop new software to keep track of their pending ride requests.
@@ -41,6 +39,7 @@ node in min heap). When no rides remain, return a message “No active ride requ
 
 
 Dependencies
+  
   • Python >= 2
 
 Execution - python3 gatorTaxi.py abhiram_input.txt 
